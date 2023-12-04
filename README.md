@@ -1,3 +1,8 @@
+![](./leomint.png)
+![](./leotransfer.png)
+
+
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
