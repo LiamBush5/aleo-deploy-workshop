@@ -1,8 +1,19 @@
 ###MINT
+
+
+
+
+
+
 ![](./leomint.png)
 
 
 ###TRANSFER
+
+
+
+
+
 ![](./leotransfer.png)
 
 
